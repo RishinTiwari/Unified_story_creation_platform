@@ -4,6 +4,8 @@
 
 **Story Creator** is an innovative application designed to bring your imaginative stories to life through the power of AI. By integrating character-driven storytelling with visual and audio generation, this tool provides a seamless way to create engaging narratives suitable for children and audiences of all ages. Using advanced models like **Ollama's Llama3** and **Stable Diffusion**, Story Creator allows users to craft stories with vivid character descriptions, dynamic scenes, and immersive settings, all complemented by custom-generated images and audio.
 
+![Story Creator Banner](img2_sd.png "Story Creator")
+
 ## Features
 
 - **Character Management:** Define your characters with unique traits, habits, desires, and relationships. Manage multiple characters through an intuitive sidebar interface.
