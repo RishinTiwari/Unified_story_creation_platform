@@ -12,6 +12,10 @@
 - **Story Generation:** Utilize **Llama3** from Ollama to generate compelling narratives based on your character inputs, setting, and desired tone (e.g., humorous, dramatic, mysterious, adventurous).
 - **Audio Integration:** Convert the generated story into audio using Google's Text-to-Speech (**gTTS**) for an immersive storytelling experience.
 - **Visual Storytelling:** Generate custom illustrations using **Stable Diffusion** to visually represent key moments of your story. These images are designed to match the narrative's tone and setting, providing a complete multimedia experience.
+
+![Story Creator Banner](st1.png "Story Creator")
+![Story Creator Banner](st2.png "Story Creator")
+![Story Creator Banner](st3.png "Story Creator")
   
 ## Technology Stack
 
@@ -27,6 +31,8 @@
 3. **Generate Story:** Hit the "Generate Story" button to create a narrative using the character and setting information provided.
 4. **Audio Conversion:** Automatically convert the generated story into an audio format for easy listening.
 5. **Visual Generation:** Send the story prompt to a Google Colab notebook for image generation using Stable Diffusion, creating visuals for the key moments of your narrative.
+
+![Story Creator Banner](img_sd.png "Story Creator")
 
 ## Getting Started
 
