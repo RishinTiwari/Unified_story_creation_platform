@@ -32,7 +32,7 @@
 4. **Audio Conversion:** Automatically convert the generated story into an audio format for easy listening.
 5. **Visual Generation:** Send the story prompt to a Google Colab notebook for image generation using Stable Diffusion, creating visuals for the key moments of your narrative.
 
-![Story Creator Banner](img_sd.png "Story Creator")
+![Story Creator Banner](image_sd.png "Story Creator")
 
 ## Getting Started
 
